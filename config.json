@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcave",
+        "uuid": 22563010,
+        "checksum": "1ljqgx"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
